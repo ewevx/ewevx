@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**ewevx/ewevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Olá, Meu nome é Ewerton, sou <strong>cientista de dados Jr</strong>.<br>
+  Atualmente estou em transição de carreira, 
+  trabalho como Personal Trainer esp. em reabilitação física e qualidade de vida.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🦄 Linguagens: Python, SQL, Pandas
+</p>
+
+<p align="left">
+  💼 Soft skills: Comunicativo, gestão de tempo, experiência do cliente, tomada de decisões baseadas em dados  
+</p>
+
+<p align="left">
+  💌 Abaixo estarei deixando meu linkedin para fazemos networking ⤵️
+</p>
+
+<p align="left">
+    <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonnsilva/" alt="LinkedIn"/></a>
+</p>
